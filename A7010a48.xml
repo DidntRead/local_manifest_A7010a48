@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <project path="kernel/lenovo/A7010a48" name="DidntRead/android_kernel_A7010a48" remote="github" revision="minimal" />
+        <project path="device/lenovo/A7010a48" name="DidntRead/android_device_A7010a48" remote="github" revision="master" />
+        <project path="vendor/lenovo/A7010a48" name="DidntRead/android_vendor_A7010a48" remote="github" revision="master" />
+</manifest> 
